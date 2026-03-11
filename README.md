@@ -15,23 +15,29 @@ Entre outras informações.
 
 Seu objetivo é fornecer uma interface agradável e intuitiva para visualização gráfica de informações, permitindo assim uma análise mais facilitada e visual das informações extraídas da base de dados.
 
-### Xbox Game Pass Dashboard
-![Imagem de um Dashboard Verde com dados de venda do Xbox Game Pass](./prints/xbox_sales_dashboard_printscreen.png)
-
-### EA Play Season Pass Dashboard
-![Imagem de um Dashboard Rosa com dados de venda do EA Play Season Pass](./prints/ea_play_season_pass_dashboard_printscreen.png)
-
-### Minecraft Season Pass Dashboard
-![Imagem de um Dashboard Amarelo Terroso com dados de cenda do Minecraft Seaso Pass](./prints/minecraft_season_pass_dashboard_printscreen.png)
+## Imagens dos Dashboards
+<details>
+  <summary>Clique para expandir</summary>
+  ### Xbox Game Pass Dashboard
+  ![Imagem de um Dashboard Verde com dados de venda do Xbox Game Pass](./prints/xbox_sales_dashboard_printscreen.png)
+  
+  ### EA Play Season Pass Dashboard
+  ![Imagem de um Dashboard Rosa com dados de venda do EA Play Season Pass](./prints/ea_play_season_pass_dashboard_printscreen.png)
+  
+  ### Minecraft Season Pass Dashboard
+  ![Imagem de um Dashboard Amarelo Terroso com dados de cenda do Minecraft Seaso Pass](./prints/minecraft_season_pass_dashboard_printscreen.png)
+</details>
 
 ## A base de dados
-
-A base de dados utilizada para a criação do Dashboard foi a mesma utilizada pelo tutor na realização do exemplo de **Desafio de Projeto** do curso e segue o seguinte padrão:
-
-|Subscriber ID|Name|Plan|Start Date|Auto Renewal|Subscription Price|Subscription Type|EA Play Season Pass|Ea Play Season Pass Price|Minecraft Season Pass|Minecraft Season Pass Price|Coupon Value|Total Value|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|3231|João Silva|Ultimate|01/01/2024|Yes|R$ 15,00|Monthly|Yes|R$ 30,00|Yes|R$ 20,00|R$ 5,00|R$ 60,00| 
+<details>
+  <summary>Clique para expandir</summary>
+  A base de dados utilizada para a criação do Dashboard foi a mesma utilizada pelo tutor na realização do exemplo de **Desafio de Projeto** do curso e segue o seguinte padrão:
   
+  |Subscriber ID|Name|Plan|Start Date|Auto Renewal|Subscription Price|Subscription Type|EA Play Season Pass|Ea Play Season Pass Price|Minecraft Season Pass|Minecraft Season Pass Price|Coupon Value|Total Value|
+  |---|---|---|---|---|---|---|---|---|---|---|---|---|
+  |3231|João Silva|Ultimate|01/01/2024|Yes|R$ 15,00|Monthly|Yes|R$ 30,00|Yes|R$ 20,00|R$ 5,00|R$ 60,00| 
+</details>  
+
 ## Organização Geral
 <details>
   <summary>Clique para expandir</summary>
@@ -54,13 +60,10 @@ A base de dados utilizada para a criação do Dashboard foi a mesma utilizada pe
   * **Bases** - Contém a base de dados da qual foram extraídas as informações dos Dashboards.
   
   * **Cálculos** - Contém o "processamento" dos dados: planilhas dinâmicas responsáveis por filtrar, ordenar e organizar as informações que serão disponibilizadas em cada Dashboard.
-
 </details>
 
 ## Instruções de Reprodução
-
 <details>
-
   <summary>Clique para expandir</summary>
   
   ### 1. Fazer o Download do arquivo
@@ -87,19 +90,24 @@ A base de dados utilizada para a criação do Dashboard foi a mesma utilizada pe
   3. Selecione quais planilhas ocultas deseja reexibir (caso queira selecionar mais de uma, segure a tecla "Ctrl" e clique em todas que deseja).
   4. Clique em "ok".
   5. Pronto, as tabelas ocultas agora devem estar visíveis para você no menu inferior da tela.
-
 </details>
 
 ## Tecnologias Utilizadas
-* Microsoft Excel
-* Tabelas Dinâmicas
-* Gráficos Dinâmicos
-* Segmentação de dados (slicers)
+<details>
+  <summary>Clique para expandir</summary>
+  * Microsoft Excel
+  * Tabelas Dinâmicas
+  * Gráficos Dinâmicos
+  * Segmentação de dados (slicers)
+</details>
 
 ## Possíveis Análises
-Com o Dashboard é possível realizar as seguintes análises (entre muitas outras):
-
-* Qual plano gera mais receita
-* O impacto da renovação automática nas vendas
-* Quanto os Season Passes contribuem para o faturamento
-* Identificação de padrões de compra de usuários
+<details>
+  <summary>Clique para expandir</summary>
+  Com o Dashboard é possível realizar as seguintes análises (entre muitas outras):
+  
+  * Qual plano gera mais receita
+  * O impacto da renovação automática nas vendas
+  * Quanto os Season Passes contribuem para o faturamento
+  * Identificação de padrões de compra de usuários
+</details>
