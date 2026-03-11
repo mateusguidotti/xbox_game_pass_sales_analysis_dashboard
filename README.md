@@ -1,6 +1,6 @@
 # DashBoard de Vendas do Xbox Game Pass com Excel
 
-![Dashboard Preview](./print/xbox_sales_dashboard_printscreen.png)
+![Dashboard Preview](./prints/xbox_sales_dashboard_printscreen.png)
 
 Esse projeto consiste na elaboração de um Dashboard de vendas do Xbox Game Pass. Ele foi desenvolvido durante o curso **"Análise de Dados com Excel e Copilot"** da **Digital Innovation One (DIO)**. O projeto teve como inspiração o projeto final desenvolvido no curso, porém, com aperfeiçoamentos que considerei importantes, como a adição de novas informações e Dashboards.
 
@@ -88,13 +88,13 @@ Seu objetivo é fornecer uma interface agradável e intuitiva para visualizaçã
   
   Após instalado e aberto (via Microsoft Excel) o arquivo mencionado, você verá uma dashboard interativa em sua tela. Para navegar pelas dashboards é bem simples:
   
-  #### * Filtro
+  * #### Filtro
   A esquerda da tela haverá um filtro interativo, ao selecionar o tipo de assinatura (Subscription Type) o Dashboard atualizará automaticamente os gráficos e informações.
   
-  #### * Outros Dashboards
+  * #### Outros Dashboards
   Para acessar os outros Dashboards ("EA Play Dashboard" e "Minecraft Dashboard"), basta navegar no menu situado na parte inferior da tela entre as diferentes planilhas.
   
-  #### * Planilhas ocultas
+  * #### Planilhas ocultas
   Caso deseje ver o conteúdo das planilhas ocultas siga o passo a passo abaixo:
   
   1. Posicione o mouse em cima do nome de uma planilha no menu inferior e clique com o botão direito do mouse.
