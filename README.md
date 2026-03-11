@@ -32,16 +32,20 @@ A base de dados utilizada para a criação do Dashboard foi a mesma utilizada pe
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 |3231|João Silva|Ultimate|01/01/2024|Yes|R$ 15,00|Monthly|Yes|R$ 30,00|Yes|R$ 20,00|R$ 5,00|R$ 60,00| 
 
-## Organização Geral
-O projeto foi diretamente inspirado no exemplo fornecido pelo tutor em aula, porém, ao contrário do exemplo em que foi criado somente um Dashboard, esse projeto foi dividido com o intuito de fornecer três Dashboards:
-
-* **Game Pass Dashboard** - Traz informações sobre as vendas do serviço de assinatura _Xbox Game Pass_ diretamente.
-
-* **EA Play Dashboard** - Traz informações sobre as vendas do serviço de assinatura _EA Play Season Pass_.
-
-* **Minecraft Dashboard** - Traz informações sobre as vendas do serviço de assinatura _Minecraft Season Pass_.
-
-Cada um desses Dashboards foi alocado em uma planilha (worksheet) dentro da pasta de trabalho do Excel (workbook) para melhor visualização e entendimento. Vale ressaltar que cada Dashboard conta também com estilização única para diferenciação. 
+<details>
+  <summary>Clique para expandir</summary>
+  
+  ## Organização Geral
+  O projeto foi diretamente inspirado no exemplo fornecido pelo tutor em aula, porém, ao contrário do exemplo em que foi criado somente um Dashboard, esse projeto foi dividido com o intuito de fornecer três Dashboards:
+  
+  * **Game Pass Dashboard** - Traz informações sobre as vendas do serviço de assinatura _Xbox Game Pass_ diretamente.
+  
+  * **EA Play Dashboard** - Traz informações sobre as vendas do serviço de assinatura _EA Play Season Pass_.
+  
+  * **Minecraft Dashboard** - Traz informações sobre as vendas do serviço de assinatura _Minecraft Season Pass_.
+  
+  Cada um desses Dashboards foi alocado em uma planilha (worksheet) dentro da pasta de trabalho do Excel (workbook) para melhor visualização e entendimento. Vale ressaltar que cada Dashboard conta também com estilização única para diferenciação. 
+</details>
 
 # 
 
