@@ -86,13 +86,13 @@ Seu objetivo é fornecer uma interface agradável e intuitiva para visualizaçã
   
   Após instalado e aberto (via Microsoft Excel) o arquivo mencionado, você verá uma dashboad interativa em sua tela. Para navegar pelas dashboards é bem simples:
   
-  #### Filtro
+  #### * Filtro
   A esquerda da tela haverá um filtro interativo, ao selecionar o tipo de assinatura (Subscription Type) o Dashboard atualizará automaticamente os gráficos e informações.
   
-  #### Outros Dashboards
+  #### * Outros Dashboards
   Para acessar os outros Dashboard ("EA Play Dashboad" e "Minecraft Dashboard"), basta navegar no menu situado na parte inferior da tela entre as diferentes planilhas.
   
-  #### Planilhas ocultas
+  #### * Planilhas ocultas
   Caso deseje ver o conteúdo das planilhas ocultas siga o passo a passo abaixo:
   
   1. Posicione o mouse em cima do nome de uma planilha no menu inferior e clique com o botão direito do mouse.
@@ -105,19 +105,23 @@ Seu objetivo é fornecer uma interface agradável e intuitiva para visualizaçã
 ## Tecnologias Utilizadas
 <details>
   <summary>Clique para expandir</summary>
+  
   * Microsoft Excel
   * Tabelas Dinâmicas
   * Gráficos Dinâmicos
   * Segmentação de dados (slicers)
+
 </details>
 
 ## Possíveis Análises
 <details>
   <summary>Clique para expandir</summary>
+  
   Com o Dashboard é possível realizar as seguintes análises (entre muitas outras):
   
   * Qual plano gera mais receita
   * O impacto da renovação automática nas vendas
   * Quanto os Season Passes contribuem para o faturamento
   * Identificação de padrões de compra de usuários
+  * 
 </details>
