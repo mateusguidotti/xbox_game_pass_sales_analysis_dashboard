@@ -2,6 +2,15 @@
 
 Esse projeto consiste na elaboração de um Dashboard de vendas do Xbox Game Pass. Ele foi desenvolvido durante o curso **"Análise de Dados com Excel e Copilot"** da **Digital Innovation One (DIO)**. O projeto teve como inspiração o projeto final desenvolvido no curso, porém, com aperfeiçoamentos que considerei importantes, como a adição de novas informações e Dashboards.
 
+## Sumário
+- [Objetivo do Dashboard](#objetivo-do-dashboard)
+- [Imagens dos Dashboards](#imagens-dos-dashboards)
+- [A base de dados](#a-base-de-dados)
+- [Organização Geral](#organizacao-geral)
+- [Instruções de Reprodução](#instrucoes-de-reproducao)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Possíveis Análises](#possiveis-analises)
+
 ## Objetivo do Dashboard
 O Dashboard foi desenvolvido para permitir a análise de vendas do Xbox Game Pass e de seus conteúdos adicionais, permitindo visualizar:
 
@@ -18,6 +27,7 @@ Seu objetivo é fornecer uma interface agradável e intuitiva para visualizaçã
 ## Imagens dos Dashboards
 <details>
   <summary>Clique para expandir</summary>
+  
   ### Xbox Game Pass Dashboard
   ![Imagem de um Dashboard Verde com dados de venda do Xbox Game Pass](./prints/xbox_sales_dashboard_printscreen.png)
   
