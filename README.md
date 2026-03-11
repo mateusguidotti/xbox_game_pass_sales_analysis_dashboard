@@ -8,7 +8,7 @@ Esse projeto consiste na elaboração de um Dashboard de vendas do Xbox Game Pas
 - [Objetivo do Dashboard](#objetivo-do-dashboard)
 - [Imagens dos Dashboards](#imagens-dos-dashboards)
 - [A base de dados](#a-base-de-dados)
-- [Organização Geral](#organizacao-geral)
+- [Organização Geral](#organização-geral)
 - [Instruções de Reprodução](#instrucoes-de-reproducao)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Possíveis Análises](#possiveis-analises)
